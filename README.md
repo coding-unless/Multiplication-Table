@@ -8,6 +8,7 @@
 - Generating multiplication table by inputing different numbers of rows
 - Clean UI, easy to read, color and styles applied
 - Real time generate by a simple text box
+- Responsive Web Design
 
 ## Sample Site:
 https://m-t.pages.dev/
